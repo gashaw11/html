@@ -1,5 +1,4 @@
-class helloworld{
-    public static void main(String[] args) {
-       println("hello world!") 
-    }
+class hellowld;
+public static void main(String[] args) {
+   println("hellow world!"); 
 }
